@@ -16,7 +16,7 @@ Programma Linux day : http://copebo.altervista.org/linuxday2025/#programma
 2. Apri Github codespaces
 3. Vai al link di questo progetto: 
 
-    https://github.com/abeatbeyondlab/codespaces-blank
+    https://github.com/abeatbeyondlab/linux-day-25-ottobre-2025-copernico-bologna-workshop-linux
 
 4. Clicca sul bottone verde "Code"
 5. clicca su "Create codespace on main"
