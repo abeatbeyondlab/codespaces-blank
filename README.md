@@ -6,7 +6,7 @@ https://abeatbeyond.com
 
 Programma Linux day : http://copebo.altervista.org/linuxday2025/#programma
 
-
+Articolo Reddit su linux : https://www.reddit.com/r/Italia/comments/1ohazh0/linux_day_2025_una_storia_per_i_pinguini_della/
 
 
 
